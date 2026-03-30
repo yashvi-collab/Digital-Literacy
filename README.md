@@ -8,10 +8,10 @@ Project Overview: This repository serves as my official Digital Literacy, comple
 
 Module Summaries-
 Module 1: Digital awareness Infographic
-In gthis taskl, I designed a visual inforgraphic focused on [safe internet practices and useful digital tools]. My goal was to create a clear, resource-rich visual to help my peers understand kmey aspects of digital literacy. I used Canva to createw the design, also attached screenshots for the individual.
+In this task, I designed a visual inforgraphic focused on [safe internet practices and useful digital tools]. My goal was to create a clear, resource-rich visual to help my peers understand key aspects of digital literacy. I used Canva to create the design, also attached screenshots for the individual.
 
-Module 2: Building a student digital portfolio
-This tyask involved establishing a professional online presence across key platforms. I set up and updated profiles onm Github, LinkedIn and kaggle, this portfolio helps make my academic and skill-building work visible to future employeers.
+Module 2: Building a Student Digital Portfolio
+This task involved establishing a professional online presence across key platforms. I set up and updated profiles onm Github, LinkedIn and kaggle, this portfolio helps make my academic and skill-building work visible to future employeers.
 Also attached screenshots for the individual
 
 Module 3: Coding & Collaboration Platforms
@@ -23,4 +23,4 @@ Effective Communication is a vital skill. For this assignment, I drafted two pro
 
 Module 5: CyberCrime Awareness & Prevention
 To help my peers stay safe online, I researched and wrote a case study on cyberbullying, detailing how the attck works and its consequences. I also wrote a structured 'Stay Safe Online' prevengtion checklist, which includes essential Indian helpline details.
-All 1 to 5 tasks along with project report and this README file is attached in this 'Digiotal Literacy' Repository
+All 1 to 5 tasks along with project report and this README file is attached in this 'Digital Literacy' Repository
